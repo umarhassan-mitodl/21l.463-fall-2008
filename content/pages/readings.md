@@ -3,15 +3,13 @@ content_type: page
 description: This section provides the list of readings for the course and the schedule
   of topics for the lecture sessions.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 43859db5-d32a-a7d7-f3f1-1dc2e612c553
 ---
-[Luminarium](http://www.luminarium.org/)
+{{% resource_link "5f44dad1-02df-493e-a88c-e0ccef45c147" "Luminarium" %}}
 
 An online anthology of English literature from the middle ages through the late 1600's; includes texts as well as background information and links to other resources.
 
@@ -20,14 +18,14 @@ Sahagun, Bernardino De. *The War of Conquest: How It Was Waged Here in Mexico: T
 Cortes, Hernan. *Letters from Mexico*. Translated by Anthony Pagden. New Haven, CT: Yale University Press, 2001. ISBN: 9780300090949.
 
 Marlowe, Christopher. *Tamburlaine*. Rochester, NH: Odyssey Press, 1974. ISBN: 9780672630613.   
-\[[Download](http://www.gutenberg.org/etext/1094) a version of part 1 of this work from Project Gutenberg.\]   
-\[[Download](http://www.gutenberg.org/etext/1589) a version of part 2 of this work from Project Gutenberg.\]
+\[{{% resource_link "bc1f5fdc-d491-4bf9-a71e-6f1e80410ad6" "Download" %}} a version of part 1 of this work from Project Gutenberg.\]   
+\[{{% resource_link "299df63c-129d-4a3a-a71b-d493501dccb9" "Download" %}} a version of part 2 of this work from Project Gutenberg.\]
 
 Rowlandson, Mary. *The Sovereignty and Goodness of God: with Related Documents*. Boston, MA: Bedford / St.Martin's, 1997. ISBN: 9780312111519.   
-\[[Download](http://www.gutenberg.org/ebooks/851) a version of this work from Project Gutenberg.\]
+\[{{% resource_link "5cdeaeb7-1a05-4c8b-b8b5-f41bc2ba027d" "Download" %}} a version of this work from Project Gutenberg.\]
 
 Marlowe, Christopher. *Dr. Faustus*. New York, NY: Signet Classics, 2001. ISBN: 9780451527790.   
-\[[Download](http://www.gutenberg.org/etext/811) a version of this work from Project Gutenberg.\]
+\[{{% resource_link "55ee9f91-59bc-4710-aa3e-aa2665ef7477" "Download" %}} a version of this work from Project Gutenberg.\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -43,26 +41,26 @@ Introductions
 
 Columbus, *Cabot* ({{% resource_link "b37e58ef-3b00-d17e-f403-38a29cef0dee" "PDF" %}})
 
-Vespucci: [*Diaries and Letters*](http://www.fordham.edu/halsall/mod/1497vespucci-america.html).
+Vespucci: {{% resource_link "36ed4260-c131-4689-9f52-caba290ad881" "*Diaries and Letters*" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 
-Petrarch, "[*The Ascent of Mount Ventoux*](http://www.fordham.edu/halsall/source/petrarch-ventoux.html)."
+Petrarch, "{{% resource_link "f0dd1461-9193-4f71-ae62-1d06a351ab78" "*The Ascent of Mount Ventoux*" %}}."
 
-Petrarch, [*Letter to "Socrates."*](http://history.hanover.edu/texts/petrarch/pet02.html)
+Petrarch, {{% resource_link "9fe6c4e3-6c16-47b4-ab06-be705f93a156" "*Letter to \"Socrates.\"*" %}}
 
-Petrarch, [*"Canzoniere" 1-19*](http://petrarch.petersadlon.com/canzoniere.html?poem=1).
+Petrarch, {{% resource_link "890f3167-413f-4b99-aeee-bfd4c97479ea" "*\"Canzoniere\" 1-19*" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-More, [*Utopia*](http://www.gutenberg.org/etext/2130).
+More, {{% resource_link "5952e1ab-df11-4510-869b-9ead29f010f6" "*Utopia*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-More, [*Utopia*](http://www.gutenberg.org/etext/2130) (cont.)
+More, {{% resource_link "5952e1ab-df11-4510-869b-9ead29f010f6" "*Utopia*" %}} (cont.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -102,19 +100,19 @@ Spenser, *The Faerie Queene*, Book II ({{% resource_link "d76bd7c1-b341-d077-3ec
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-Marlowe, Christopher. [*Dr. Faustus*](http://www.gutenberg.org/etext/811).
+Marlowe, Christopher. {{% resource_link "55ee9f91-59bc-4710-aa3e-aa2665ef7477" "*Dr. Faustus*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Marlowe, Christopher. [*Dr. Faustus*](http://www.gutenberg.org/etext/811). (cont.)
+Marlowe, Christopher. {{% resource_link "55ee9f91-59bc-4710-aa3e-aa2665ef7477" "*Dr. Faustus*" %}}. (cont.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Marlowe, Christopher. "[*Tamburlaine*](http://www.gutenberg.org/etext/1094)."
+Marlowe, Christopher. "{{% resource_link "bc1f5fdc-d491-4bf9-a71e-6f1e80410ad6" "*Tamburlaine*" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Marlowe, Christopher. "[*Tamburlaine*](http://www.gutenberg.org/etext/1094)." (cont.)
+Marlowe, Christopher. "{{% resource_link "bc1f5fdc-d491-4bf9-a71e-6f1e80410ad6" "*Tamburlaine*" %}}." (cont.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -134,7 +132,7 @@ Writing workshop
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-Bacon, [*New Atlantis*](http://www.gutenberg.org/etext/2434)
+Bacon, {{% resource_link "70381d8d-9529-4fcd-be2c-68bc4e340682" "*New Atlantis*" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -146,15 +144,15 @@ Donne, John. *Poems and Prose of John Donne*. Norwalk, CT: The Easton Press, 200
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Bradford, [*Plimoth Plantation*](http://www.fordham.edu/halsall/mod/1650bradford.html)
+Bradford, {{% resource_link "c222f0f0-cce4-499a-85a7-ca55008d8e6d" "*Plimoth Plantation*" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-Rowlandson, Mary. "[*The Sovereignty and Goodness of God: with Related Documents*](http://www.gutenberg.org/ebooks/851)."
+Rowlandson, Mary. "{{% resource_link "5cdeaeb7-1a05-4c8b-b8b5-f41bc2ba027d" "*The Sovereignty and Goodness of God: with Related Documents*" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-Rowlandson, Mary. "[*The Sovereignty and Goodness of God: with Related Documents*](http://www.gutenberg.org/ebooks/851)." (cont.)
+Rowlandson, Mary. "{{% resource_link "5cdeaeb7-1a05-4c8b-b8b5-f41bc2ba027d" "*The Sovereignty and Goodness of God: with Related Documents*" %}}." (cont.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
